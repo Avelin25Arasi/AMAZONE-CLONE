@@ -1,0 +1,199 @@
+ 
+.navigation{
+    background-color: #131920;
+    color: red;
+    font-size: 25px;
+    border: solid #131920;
+    border-radius: 10px;
+    display: flex;
+    
+
+}
+.search_group{
+    display: flex;
+    margin-left: 20px;
+}
+div{
+    color: white;
+    font-size: 12px;
+    font-family: sans-serif;
+   
+}
+#address{
+    margin-left: 40px;
+}
+#add1{
+    position: relative;
+    top: 10px;
+    left: 22px;
+    
+
+}
+#add2{
+    position: relative;
+    font-weight: 700;
+    
+    bottom: 7px;
+    left: 6px;
+}
+#add{
+    top: 20px;
+    background-size: contain;
+}
+.nav-search-dropdown{
+    width: 42px;
+    height: 40px;
+    background-color:silver;
+    color: rgb(74, 75, 75);
+    border-radius: 7px;
+    font-weight: 400;
+    
+    font-size: 14px;
+    
+}
+
+#searchbar{
+    position: relative;
+    top: 7px;
+    left: 50px;
+    
+}
+.nav-search-dropdown:hover{
+    color: black;
+}
+#search_text{
+    position: relative;
+    left: 47px;
+    top: 7px;
+    
+    
+    
+}
+#twotabsearchtextbox{
+   width: 450px;
+   height: 35px;
+   border-radius: 7px;
+}
+#image{
+    position: relative;
+    top: 7px;
+    left: 20px;
+}
+#nav-search-submit-button{
+    
+    background-image:url("5.PNG") ;
+    width: 40px;
+    height: 35px;
+}
+#nav-search-submit-button:hover{
+    filter: contrast(150%);
+}
+#country{
+    position: relative;
+    top: 15px;
+    left: 50px;
+    margin-left: 20px;
+}
+#drop{
+    background-color: black;
+    color: white;
+    font-weight: 200;
+    height:30px;
+  
+}
+#nav-link-accountList{
+    color: white;
+    position: relative;
+    left: 80px;
+    top: 15px;
+    text-decoration: none;
+    font-family: sans-serif;
+    
+}
+#sign{
+    margin-left: 40px;
+}
+.nav-line-2{
+    font-weight: bolder;
+}
+#nav-orders{
+    color: white;
+    position:relative;
+    left: 100px;
+    text-decoration: none;
+    top: 15px;
+}
+#returns{
+    margin-left: 40px;
+}
+#cart{
+    
+    position: relative;
+    left: 120px;
+    top: 4px;
+    background-image: url("4.PNG");
+    width: 45px;
+    height: 35px;
+    background-size: cover;
+    margin-left: 40px;
+   
+}
+#cart_text{
+    font-family: sans-serif;
+    position:relative;
+    left: 45px;
+    top: 22px;
+    font-size: medium;
+
+}
+#cover{
+    width:1494px;
+   
+}
+#footer{
+    background-color: #232F3E;
+    width: 1494px;
+    height: 500px;
+    display: flex;
+    justify-content: space-evenly;
+       
+}
+.navFooterLinkCol{
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 15px;
+    position: relative;
+    top: 50px;
+   
+    text-align: left; 
+    line-height: 30px;
+  
+    
+}
+#kid
+{
+    width:3px;
+    height:3px;
+    top:15px;
+}
+.nav_a{
+   
+    color: #fff;
+    text-decoration: none;
+    
+   
+    
+}
+.navFooterColHead{
+    font-weight: 700;
+    font-size: 20px;
+    text-align: left;
+    padding-left: 38px;
+  
+}
+ul{
+    list-style-type: none;
+}
+
+
+
+
